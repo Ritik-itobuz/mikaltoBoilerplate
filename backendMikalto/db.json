@@ -1,0 +1,40 @@
+{
+   "Activities" : {
+      "image":"https://media.istockphoto.com/id/1331465591/photo/3d-render-of-a-luxury-hotel-swimming-pool.jpg?s=612x612&w=is&k=20&c=6iZ78f5EK6IEW59A0XGDSW0k4GrnT1dzCDqm5_gDeYo=",
+      "imagex":"https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWx8ZW58MHx8MHx8&w=1000&q=80",
+      "heading":"Enjoy Your dream vacation",
+      "subHeading":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "buttonAbout":"About Us",
+      "buttonView":"View More"
+  
+    },
+    "Hero" : {
+        "image" : "https://cdn.pixabay.com/photo/2022/10/23/02/26/hotel-7540353_1280.jpg"
+    },
+    "Luxury" : {
+        "image1" : "https://cdn.pixabay.com/photo/2016/01/29/15/26/abstract-1168134_1280.jpg",
+        "image3" : "https://cdn.pixabay.com/photo/2014/10/22/18/16/church-498525_1280.jpg",
+        "image2" : "https://cdn.pixabay.com/photo/2016/06/28/19/25/man-1485335_1280.jpg"
+    },
+    "Slider" : {
+        "image1" : "https://media.cnn.com/api/v1/images/stellar/prod/140127103345-peninsula-shanghai-deluxe-mock-up.jpg?q=w_2226,h_1449,x_0,y_0,c_fill",
+        
+        "image2" : "https://images.pexels.com/photos/271639/pexels-photo-271639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "image3" : "https://images.pexels.com/photos/53464/sheraton-palace-hotel-lobby-architecture-san-francisco-53464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        
+    },
+    "Card" : {
+        "image1" : "https://cdn.pixabay.com/photo/2020/05/22/08/17/breakfast-5204352_1280.jpg",
+        "image2" : "https://images.pexels.com/photos/96444/pexels-photo-96444.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "image3" : "https://images.pexels.com/photos/1579253/pexels-photo-1579253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+
+        "image4" : "https://images.pexels.com/photos/262047/pexels-photo-262047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    },
+    "New" : {
+        "image" : "https://images.herzindagi.info/image/2022/Apr/woman-swimming-in-pool.jpg"
+    }
+
+
+
+    
+}
